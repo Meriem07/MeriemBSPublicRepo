@@ -87,5 +87,6 @@ def classify_face(im):
 
 
 print(classify_face("test.jpg"))
+print( "la liste est:" face_names )
 
 
